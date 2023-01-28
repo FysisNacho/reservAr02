@@ -123,6 +123,7 @@ footer {width: auto;
         background-repeat:round;
         }
 
+.video_ilustrativo{margin-top: 10%; align-items: center;}
 .imagen_qr_footer {float: right;}
 
 @media screen and (max-width:48px) {
