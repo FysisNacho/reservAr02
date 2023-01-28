@@ -32,6 +32,7 @@ header {width: auto;
                         background-image: url(./fotos-reservar/terraza.jpg);
                         background-repeat:round;
                         }
+
 a {text-decoration: none;}
 
 a :hover {color: rgb(240, 8, 8);}
@@ -49,10 +50,19 @@ main {padding: 0px;
                     padding-top: 60px;}
 
 #img_amenities {width: 450px; height: 300px; margin: 80px; float: left;}
+.imagen_menu_principal:hover{transform: scale(1.5); transition: all;}
+
 #boton_de_turno{font-size: 20px; text-align: center; padding: 2px; cursor: pointer}
 
 .calendario {cursor: pointer;}
-.boton_aceptar {cursor: pointer; transition: 0.5s;}
+.boton_aceptar {cursor: pointer; 
+                transition: 0.5s; 
+                width: 10%; 
+                padding: 4px; 
+                font-size: 15px; 
+                font-weight: bold; 
+                color: white;
+                background: rgb(43, 43, 110)}
 
 #formualario-index {margin: 50px;} 
 
