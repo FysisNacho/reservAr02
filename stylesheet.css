@@ -44,7 +44,7 @@ main {padding: 0px;
 #main_confirmacion {font-size: 25px; 
                     font-family: 'Josefin Sans', sans-serif;
                     font-weight: 100;
-                    color: rgb(5, 44, 94);
+                    color: rgb(3, 44, 97);
                     text-align: right;
                     justify-content: center;
                     padding-top: 60px;}
@@ -123,6 +123,7 @@ footer {width: auto;
         background-repeat:round;
         }
 
+.video_ilustrativo{margin-top: 10%; align-items: center;}
 .imagen_qr_footer {float: right;}
 
 @media screen and (max-width:48px) {
